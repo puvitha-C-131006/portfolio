@@ -8,21 +8,6 @@ const Achievements = () => {
       icon: <Award size={28} />
     },
     {
-      title: "Full Stack Development Skills",
-      desc: "Acquired strong proficiency in both frontend and backend technologies to build scalable and secure applications.",
-      icon: <Server size={28} />
-    },
-    {
-      title: "Problem Solving Skills",
-      desc: "Demonstrated strong analytical and problem-solving abilities through complex coding challenges and logical design.",
-      icon: <Calendar size={28} />
-    },
-    {
-      title: "Responsive Web Applications Built",
-      desc: "Created highly responsive and interactive web interfaces optimized for seamless user experiences across all devices.",
-      icon: <Globe size={28} />
-    },
-    {
       title: "Continuous Learning and Technology Exploration",
       desc: "Dedicated to continuously learning new technologies, tools, and best practices in cyber security and modern development.",
       icon: <BookOpen size={28} />
