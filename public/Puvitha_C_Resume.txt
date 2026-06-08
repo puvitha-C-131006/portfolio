@@ -1,0 +1,58 @@
+PUVITHA C
+Full Stack Developer | Engineering Student
+Location: Hosur, Tamil Nadu, India
+Email: puvithasaraswathi@gmail.com | Phone: +91 9363926866
+GitHub: https://github.com/puvitha-C-131006
+LinkedIn: https://www.linkedin.com/in/puvitha-c-b86633335
+
+=========================================
+CAREER OBJECTIVE
+=========================================
+To secure a challenging position in the software industry where I can apply my technical knowledge, 
+enhance my development skills, and contribute to organizational growth while continuously learning 
+emerging technologies.
+
+=========================================
+EDUCATION
+=========================================
+Adhiyamaan College of Engineering, Tamil Nadu, India
+Bachelor of Engineering (B.E.) in Computer Science
+Current Student
+
+=========================================
+TECHNICAL SKILLS
+=========================================
+- Programming Languages: C, Java, Python, JavaScript
+- Web Technologies: HTML, CSS, JavaScript, React.js, Node.js, Express.js
+- Database Management: MySQL, MongoDB
+- Tools & Platforms: Git, GitHub, VS Code, AI tools for coding assistance
+
+=========================================
+PROJECTS
+=========================================
+1. TN Tourist Guide App
+   Description: A comprehensive tourist guide application for Tamil Nadu, featuring 
+   district-wise navigation, category filters, and detailed travel information.
+   Technologies: React.js, Node.js, Express.js, MongoDB
+
+2. Phishing Email Detector
+   Description: An intelligent security tool that analyzes incoming emails to detect 
+   potential phishing threats and protect users using machine learning algorithms.
+   Technologies: Python, Machine Learning, Flask, React.js
+
+3. Personal Portfolio Website
+   Description: A responsive personal portfolio website to showcase skills, projects, 
+   achievements, and contact information, with an admin panel.
+   Technologies: React.js, Node.js, MongoDB, CSS
+
+4. Smart Timetable Generator
+   Description: An intelligent timetable scheduling system that automatically generates class 
+   schedules while avoiding faculty, classroom, and subject conflicts.
+   Technologies: HTML, CSS, JavaScript, Node.js, MongoDB
+
+=========================================
+ACHIEVEMENTS
+=========================================
+- Improved problem-solving skills through programming practice.
+- Built responsive, interactive web applications.
+- Continuously learning and implementing modern technologies and frameworks.
